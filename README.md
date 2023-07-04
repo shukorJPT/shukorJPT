@@ -1,6 +1,6 @@
 ![GitHub Follow](https://img.shields.io/github/followers/shukorJPT.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/shukorJPT?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FshukorJPT&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
 ## Hi there! <img src="https://raw.githubusercontent.com/drshahizan/drshahizan/master/img/wave.gif" width="30">
